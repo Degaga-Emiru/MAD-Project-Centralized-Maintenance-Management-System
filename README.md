@@ -1,5 +1,7 @@
 # Mobile-App-Project
-this is group 2 mobile application project that developed for hawassa univeristy
+This is group 2 mobile application project that developed for Hawassa univeristy.
+Subnitted oct-29
+
 # 📱 Mobile Application (Android App)
 
 This repository contains the source code for an **Android mobile application** developed using **Java**. The project follows modern Android development practices and is built to deliver a smooth, responsive, and user-friendly experience.
