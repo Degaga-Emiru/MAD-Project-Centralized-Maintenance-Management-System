@@ -119,9 +119,11 @@ Primary color theme: **Blue (`#1E88E5`)**
 - Git installed
 
 ### 📥 Clone the Repository
-```bash
+
 git clone https://github.com/<your-username>/HU-Maintenance-App.git
 cd HU-Maintenance-App
+---
+### Group Members
 | Name                | Role                          | Responsibilities                                         |
 |----------------------|--------------------------------|----------------------------------------------------------|
 | Degaga Emiru         | Project Manager & Lead Developer | System design, backend integration (Java), project coordination |
