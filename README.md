@@ -1,43 +1,131 @@
-# Mobile-App-Project
-This is group 2 mobile application project that developed for Hawassa univeristy.
-Subnitted oct-29
+# 🏫 Centralized Maintenance Management System for Hawassa University - IoT
 
-# 📱 Mobile Application (Android App)
-
-This repository contains the source code for an **Android mobile application** developed using **Java**. The project follows modern Android development practices and is built to deliver a smooth, responsive, and user-friendly experience.
+A **mobile-based application** built using **Java (Android)** that digitizes and streamlines maintenance reporting and management operations across **Hawassa University - IoT**.  
+The system enables **students and staff** to report maintenance issues, while **administrators and technicians** can manage, assign, and resolve tasks — all within one centralized platform.
 
 ---
 
-## 🚀 Features
+## 📱 Overview
 
-- Intuitive and responsive user interface (UI)
-- Built with Java and Android SDK
-- Follows MVVM or MVC architecture (based on implementation)
-- Local data storage using SQLite / Room database
-- API integration using Retrofit (if applicable)
-- User authentication (Login / Signup)
-- Push notifications (Firebase Cloud Messaging)
-- Dark and Light mode support
-- Error handling and input validation
+At Hawassa University - IoT, maintenance issues are often handled through paper-based or verbal communication, which leads to delays, poor accountability, and lack of transparency.  
+This project introduces a **Centralized Maintenance Management System** that connects reporters, administrators, and technicians through a single mobile application.  
+It enhances maintenance efficiency, reduces delays, and improves service quality across university facilities.
+
+---
+
+## 🎯 Key Features
+
+### 👨‍🎓 For Students / Staff (Reporters)
+- 🔐 Secure Login / Signup authentication  
+- 🧾 Submit maintenance requests with:
+  - Issue category (e.g., Electrical, Plumbing, Furniture, etc.)
+  - Location details (Building, Room Number)
+  - Description and photo upload
+- 📊 Track maintenance request status in real-time
+- 🔔 Receive push notifications for updates and completion
+- ⭐ Provide feedback or rate completed maintenance tasks
+
+### 🧑‍💼 For Administrators
+- 🖥️ Centralized admin dashboard for managing all maintenance reports
+- 🧩 Assign and dispatch issues to technicians
+- 📈 Monitor progress in real-time
+- 🧾 Generate analytical reports on:
+  - Response time
+  - Technician workload
+  - Common issue categories
+
+### 🔧 For Technicians
+- 📋 View assigned maintenance tasks
+- 🔄 Update task progress (Acknowledged, In Progress, Completed)
+- 📝 Add completion notes and upload evidence (e.g., photo)
+- ✅ Confirm job completion
+
+---
+
+## 🧩 System Workflow
+
+1. **Reporting Phase:**  
+   Students or staff report maintenance issues by providing location, description, and photo evidence.
+
+2. **Task Assignment:**  
+   Administrators review the reports and assign them to technicians based on expertise or location.
+
+3. **Maintenance Action:**  
+   Technicians receive notifications, address the problem, and update the status accordingly.
+
+4. **Verification & Feedback:**  
+   Reporters or administrators verify if the issue has been resolved and provide feedback.
+
+5. **Reports & Analytics:**  
+   Administrators generate performance insights, including resolution rates and technician efficiency.
+
+---
+
+## 🧱 System Architecture
+
+
+- **Frontend:** Android (Java, XML, Material Design)
+- **Backend:** Java RESTful API
+- **Database:** MySQL or Firebase
+- **Cloud Services:** Firebase Authentication & FCM (Push Notifications)
+- **Design:** Figma (UI/UX Prototype)
+
+---
+
+## 🎨 UI Design (Figma)
+
+The user interface (UI) is designed in **Figma**, emphasizing accessibility, modern aesthetics, and usability.  
+Primary color theme: **Blue (`#1E88E5`)**
+
+### 📄 Includes:
+1. **Cover Page:** Title, University logo, and color palette  
+2. **Style Guide:** Typography, colors, button variants  
+3. **Components:** Cards, forms, modals, icons  
+4. **Screens:**
+   - Splash  
+   - Onboarding (x3)  
+   - Login / Signup  
+   - Dashboard (User)  
+   - Report Issue  
+   - Request Details  
+   - Admin Dashboard  
+   - Technician Tasks  
+   - Notifications  
+   - Feedback  
+   - Profile  
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category | Technology |
-|-----------|-------------|
-| **Language** | Java |
-| **Framework** | Android SDK |
-| **IDE** | Android Studio |
-| **Database** | SQLite / Room |
-| **Networking** | Retrofit / Volley |
-| **Authentication** | Firebase Auth / Custom JWT |
+| Layer | Technology |
+|-------|-------------|
+| **Frontend (Mobile)** | Java (Android SDK), XML, Material Components |
+| **Backend** | Java (RESTful APIs) |
+| **Database** | MySQL / Firebase |
+| **Authentication** | Firebase Authentication |
+| **Notifications** | Firebase Cloud Messaging (FCM) |
+| **Design** | Figma |
 | **Version Control** | Git & GitHub |
 
 ---
 
-## ⚙️ Installation and Setup
+## ⚙️ Installation & Setup
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/<Degaga-Emiru>/<repo-name>.git
+### 🔧 Prerequisites
+- Android Studio (latest version)
+- Java 17+
+- MySQL or Firebase account
+- Git installed
+
+### 📥 Clone the Repository
+```bash
+git clone https://github.com/<your-username>/HU-Maintenance-App.git
+cd HU-Maintenance-App
+| Name                | Role                          | Responsibilities                                         |
+|----------------------|--------------------------------|----------------------------------------------------------|
+| Degaga Emiru         | Project Manager & Lead Developer | System design, backend integration (Java), project coordination |
+| [Member 2 Name]      | UI/UX Designer                | Figma prototype design, color palette, user interface design |
+| [Member 3 Name]      | Android Developer             | Frontend implementation in Android Studio, API integration |
+| [Member 4 Name]      | Database Engineer             | Database design, setup, and optimization |
+| [Member 5 Name]      | QA & Documentation Lead       | Testing, bug tracking, report writing, and documentation |
