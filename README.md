@@ -125,9 +125,9 @@ cd HU-Maintenance-App
 ---
 ### Group Members
 | Name                | Role                          | Responsibilities                                         |
-|----------------------|--------------------------------|----------------------------------------------------------|
-| Degaga Emiru         | Project Manager & Lead Developer | System design, backend integration (Java), project coordination |
-| [Member 2 Name]      | UI/UX Designer                | Figma prototype design, color palette, user interface design |
-| [Member 3 Name]      | Android Developer             | Frontend implementation in Android Studio, API integration |
-| [Member 4 Name]      | Database Engineer             | Database design, setup, and optimization |
-| [Member 5 Name]      | QA & Documentation Lead       | Testing, bug tracking, report writing, and documentation |
+|----------------------   |--------------------------------|----------------------------------------------------------|
+| Bontu Temesgen        | Project Manager & Lead Developer | System design, backend integration (Java), project coordination |
+| Abdi Gemechu         | UI/UX Designer                | Figma prototype design, color palette, user interface design |
+| Degaga Emiru         | Android Developer             | Frontend implementation in Android Studio, API integration |
+| Debela Jobir         | Database Engineer             | Database design, setup, and optimization |
+| Sisay Wolde          | QA & Documentation Lead       | Testing, bug tracking, report writing, and documentation |
