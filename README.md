@@ -94,7 +94,33 @@ Primary color theme: **Blue (`#1E88E5`)**
    - Notifications  
    - Feedback  
    - Profile  
+---
 
+## 🎨 Figma Design Board
+
+👉 [**View Figma Design**](<YOUR_FIGMA_LINK>)
+
+*(Replace `<YOUR_FIGMA_LINK>` with your actual Figma design board link.)*
+
+---
+
+## 📊 Jira Project Management
+
+We are using **Jira Software (Scrum Template)** to manage our development process efficiently.  
+Jira allows us to plan, track, and monitor progress across all project phases — from design to deployment.  
+
+### 🔹 Jira Features in Our Workflow:
+- **Epics:** Represent major modules (e.g., User Authentication, Reporting, Dashboard).  
+- **Stories & Tasks:** Each epic is divided into smaller tasks for better tracking.  
+- **Sprints:** Our team organizes work in time-boxed iterations to deliver incremental progress.  
+- **Board View:** Provides a visual overview of all tasks (To Do, In Progress, Done).  
+- **Backlog:** Stores future tasks and improvements for upcoming sprints.  
+
+Using Jira helps our team maintain transparency, meet deadlines, and ensure collaboration among members.
+
+👉 [**View Jira Board**](<YOUR_JIRA_LINK>)
+
+*(Replace `<YOUR_JIRA_LINK>` with your actual Jira board link.)*
 ---
 
 ## 🛠️ Tech Stack
