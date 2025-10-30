@@ -1,9 +1,10 @@
 # 🏫 Centralized Maintenance Management System for Hawassa University - IoT
-
-A **mobile-based application** built using **Java (Android)** that digitizes and streamlines maintenance reporting and management operations across **Hawassa University - IoT**.  
-The system enables **students and staff** to report maintenance issues, while **administrators and technicians** can manage, assign, and resolve tasks — all within one centralized platform.
-
 ---
+## 📱 Project Description
+
+The **Centralized Maintenance Management System for Hawassa University–IoT** is a mobile-based application designed to digitize and streamline the maintenance process within the university’s facilities. The system enables students, staff, and administrators to report, assign, and track maintenance requests related to university buildings, dormitories, and offices. Currently, most maintenance operations are conducted manually, leading to inefficiencies and delays.  
+
+By leveraging mobile technology, this system aims to enhance communication, transparency, and accountability among stakeholders. It will simplify reporting and tracking processes, improve response time, and ensure a well-maintained and conducive learning environment across Hawassa University.
 
 ## 📱 Overview
 
