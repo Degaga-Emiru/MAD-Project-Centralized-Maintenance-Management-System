@@ -116,7 +116,7 @@ Jira allows us to plan, track, and monitor progress across all project phases �
 
 Using Jira helps our team maintain transparency, meet deadlines, and ensure collaboration among members.
 
-👉 [**View Jira Board**]((https://degagaemiru-1761728927749.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog))
+👉 [**View Jira Board**](https://degagaemiru-1761728927749.atlassian.net/jira/software/projects/SCRUM/boards/1)
 
 ---
 
