@@ -100,8 +100,6 @@ Primary color theme: **Blue (`#1E88E5`)**
 
 👉 [**View Figma Design**](<YOUR_FIGMA_LINK>)
 
-*(Replace `<YOUR_FIGMA_LINK>` with your actual Figma design board link.)*
-
 ---
 
 ## 📊 Jira Project Management
@@ -118,9 +116,8 @@ Jira allows us to plan, track, and monitor progress across all project phases �
 
 Using Jira helps our team maintain transparency, meet deadlines, and ensure collaboration among members.
 
-👉 [**View Jira Board**](<YOUR_JIRA_LINK>)
+👉 [**View Jira Board**]((https://degagaemiru-1761728927749.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog))
 
-*(Replace `<YOUR_JIRA_LINK>` with your actual Jira board link.)*
 ---
 
 ## 🛠️ Tech Stack
