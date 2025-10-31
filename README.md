@@ -1,5 +1,17 @@
 # 🏫 Centralized Maintenance Management System for Hawassa University - IoT
----
+
+**Tagline:** *Smarter Maintenance For Smarter Campus.*
+
+## 📱 App Name : 
+**UniFix:**
+
+Mobile-based maintenance management app for Hawassa University that simplifies reporting, tracking and resolving maintenance issues across campus. 
+
+## 👥 User Personas
+
+Our users include Samuel Bekele, a 21-year-old computer science student at Hawassa University, who struggles to report maintenance issues and track their progress efficiently; Amanuel Tesfaye, a 34-year-old maintenance technician, who faces confusion and task duplication when handling requests on paper and wants a digital system to manage and update tasks clearly; and Meskerem Abate, a 40-year-old maintenance administrator, who finds it difficult to track and assign repair requests manually and wants a centralized dashboard to monitor all ongoing tasks and ensure accountability.
+
+
 ## 📱 Project Description
 
 The **Centralized Maintenance Management System for Hawassa University–IoT** is a mobile-based application designed to digitize and streamline the maintenance process within the university’s facilities. The system enables students, staff, and administrators to report, assign, and track maintenance requests related to university buildings, dormitories, and offices. Currently, most maintenance operations are conducted manually, leading to inefficiencies and delays.  
