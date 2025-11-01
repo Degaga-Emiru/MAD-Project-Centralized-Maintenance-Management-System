@@ -9,7 +9,7 @@ Mobile-based maintenance management app for Hawassa University that simplifies r
 
 ## 👥 User Personas
 
-Our users include Samuel Bekele, a 21-year-old computer science student at Hawassa University, who struggles to report maintenance issues and track their progress efficiently; Amanuel Tesfaye, a 34-year-old maintenance technician, who faces confusion and task duplication when handling requests on paper and wants a digital system to manage and update tasks clearly; and Meskerem Abate, a 40-year-old maintenance administrator, who finds it difficult to track and assign repair requests manually and wants a centralized dashboard to monitor all ongoing tasks and ensure accountability.
+Our users include Computer Science students at Hawassa University – Institute of Technology (IOT), who face challenges in reporting maintenance issues and tracking their progress efficiently; maintenance technicians, who experience confusion and task duplication when handling requests on paper and seek a digital system to manage and update tasks clearly; and maintenance administrators, who find it difficult to track and assign repair requests manually and need a centralized dashboard to monitor all ongoing tasks and ensure accountability.
 
 
 ## 📱 Project Description
