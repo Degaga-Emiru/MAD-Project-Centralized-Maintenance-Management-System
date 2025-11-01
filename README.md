@@ -137,10 +137,10 @@ Using Jira helps our team maintain transparency, meet deadlines, and ensure coll
 | Layer | Technology |
 |-------|-------------|
 | **Frontend (Mobile)** | Java (Android SDK), XML, Material Components |
-| **Backend** | Java (RESTful APIs) |
-| **Database** | MySQL / Firebase |
-| **Authentication** | Firebase Authentication |
-| **Notifications** | Firebase Cloud Messaging (FCM) |
+| **Backend** | Java  |
+| **Database** | MySQL /PosgreSQL |
+| **Authentication** | Secure Login & Role-Based Access Control (Custom Implementation) |
+| **Notifications** | Local Notifications / Push Notification Integration (Future Enhancement) |
 | **Design** | Figma |
 | **Version Control** | Git & GitHub |
 
