@@ -148,16 +148,32 @@ Using Jira helps our team maintain transparency, meet deadlines, and ensure coll
 
 ## ⚙️ Installation & Setup
 
+Follow the steps below to set up and run the **Centralized Maintenance Management System (Android Application)** on your local machine.
+
+---
+
 ### 🔧 Prerequisites
-- Android Studio (latest version)
-- Java 17+
-- MySQL or Firebase account
-- Git installed
+
+Before you begin, ensure you have the following installed and configured:
+
+- **Android Studio** (latest stable version)  
+- **Java Development Kit (JDK 17+)**  
+- **MySQL** or **PostgreSQL** database  
+- **Git** (for cloning and version control)  
+- **Stable Internet Connection** (for Gradle and dependency downloads)
+
+---
 
 ### 📥 Clone the Repository
 
-git clone https://github.com/<your-username>/HU-Maintenance-App.git
-cd HU-Maintenance-App
+Open your terminal or command prompt and run the following commands:
+
+# Clone the repository
+git clone https://github.com/<your-username>/MAD-Project-Centralized-Maintenance-Management-System.git
+
+# Navigate into the project directory
+cd MAD-Project-Centralized-Maintenance-Management-System
+
 ---
 ### Group Members
 | Name                | Role                          | Responsibilities                                         |
