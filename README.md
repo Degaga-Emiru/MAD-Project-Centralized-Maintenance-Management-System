@@ -110,7 +110,7 @@ Primary color theme: **Blue (`#1E88E5`)**
 
 ## 🎨 Figma Design Board
 
-👉 [**View Figma Design**]([YOUR_FIGMA_LINK>](https://www.figma.com/design/br8D36Ef3Ta6txVEMVmAFL/MAD-project?node-id=0-1&m=dev&t=pRC5BJJvoSiHnD3a-1))
+👉 [**View Figma Design**](https://www.figma.com/design/br8D36Ef3Ta6txVEMVmAFL/MAD-project?node-id=0-1&m=dev&t=pRC5BJJvoSiHnD3a-1>)
 
 ---
 
