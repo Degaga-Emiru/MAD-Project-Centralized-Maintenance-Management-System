@@ -1,4 +1,4 @@
-package com.hawassa.unifix.activites;
+package com.hawassa.unifix.technician;
 
 public class TechnicianDashboardActivity {
 }

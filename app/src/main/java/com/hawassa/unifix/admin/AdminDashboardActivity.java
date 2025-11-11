@@ -1,4 +1,4 @@
-package com.hawassa.unifix.activites;
+package com.hawassa.unifix.admin;
 
 public class AdminDashboardActivity {
 }
